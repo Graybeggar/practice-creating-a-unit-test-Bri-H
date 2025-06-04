@@ -4,12 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b17dd75-6fbb-400a-b054-bb1002e938d1" name="Changes" comment="" />
+    <list default="true" id="0b17dd75-6fbb-400a-b054-bb1002e938d1" name="Changes" comment="calculate age" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Graybeggar"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Graybeggar/IntelliJ-project-Bri-H..git",
+    "accountId": "e115af64-4c3b-477a-9164-9d814d9f611c"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -23,6 +38,7 @@
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "onboarding.tips.debug.path": "C:/Users/blhat/launchcode/unit2/practice-ageCalculator-Bri-H/src/main/java/org/example/Main.java"
   }
 }]]></component>
@@ -34,6 +50,19 @@
       <option name="presentableId" value="Default" />
       <updated>1748983594152</updated>
     </task>
+    <task id="LOCAL-00001" summary="calculate age">
+      <option name="closed" value="true" />
+      <created>1748984827061</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748984827061</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="calculate age" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculate age" />
   </component>
 </project>
